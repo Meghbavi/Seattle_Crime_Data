@@ -28,4 +28,8 @@ Exploratory Data Analysis:
 2)Checking missing and null values and replacing the Nan values if neccessary with approriate value.
 3)Dropping the uneccessary columns and checked for duplicate values.
 4)Changing the Datatypes to correct type.
-5)Performed visualizations based of 
+5)Performed visualizations to check the null values, to understand which category has the highest and least crimes. Also, based on the two Groups A and B which group had the highest crime rate in Group A and Group B
+6) Also, when were the most crimes happened during day time or midnight?
+7) Checking which areas use the mccp plans more and less.
+IMPLEMETATION:
+Considering the category column as target variable, i would predict which crime is more likely to happen. So that seattle city can be aware of those crimes and be careful.
