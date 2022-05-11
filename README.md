@@ -1,3 +1,8 @@
+SEATTLE CRIME DATA PREDICTION
+•	Introduction:
+Criminality is one of the most tough social problems, and it has gotten worse as the population has grown. The elements that contribute to an increase in criminal activity must be understood by security authorities. Because they are working on a range of issues, officials may not be able to predict future crimes. Despite their greatest efforts, officials and police officers may not be able to totally reduce crime rates. Crime prediction is one of the main activities of criminology, which entails predicting crime incidence, recognizing crime trends, and connecting them to other horrifying episodes and criminal organizations. Law enforcement agencies' biggest challenges are criminal identification and crime prediction. It is nearly impossible for security authorities to manually investigate and unravel concealed criminal trends due to the massive volume of data, complexity, and rising crime rate. To solve this challenge, new technology is required that can accurately forecast crime and identify crime patterns.
+![image](https://user-images.githubusercontent.com/103714078/167957144-1729b344-7eb5-48b6-95e8-d8444deeaff9.png)
+
 # Seattle_Crime_Data
 
 Seattle Crime Data Analysis. In this Project I used Seattle crime data to do exploratory analysis and provide statistical answers to the issues. 
