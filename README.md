@@ -34,6 +34,7 @@ DATASET SOURCE:
 https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5/data
 
 Project Implementation:
+
 Exploratory Data Analysis:
 
 1)I have changed the name of the columns for easy use.
@@ -45,18 +46,22 @@ Exploratory Data Analysis:
 7) Checking which areas use the mccp plans more and less.
 
 Modelling:
+
 Logistic Regression:
+
 For grid search, C values of [0.001,0.1,1] were employed as hyperparameters.
 When hyperparameter C is 0.001, the model appears to be the best fit.
 Because the target variable is significantly skewed, accuracy of 84% .
 The AUC of the ROC curve is 90%.
 
 Random Forest:
+
 Modeling hyperparameters: utilized max_depth values of [15,17].
 The model appears to work best with a value of 10 for n neighbors.
 The model has a 99 percent accuracy rating, which is greater than the logistic regression model.
 The area under the curve has been raised to 100%, which is lower than logistic models.
 
 Conclusion:
+
 I couldnt give proper conclusion because my randomforest AUC and validation are nearly 100, that means there might be overfitting concern in the dataset which i have used. But Overall, I would recommend to use RandomForest model as it has the highest accuracy and AUC score. Also, RandomForest is the better approach if there is lots of imbalances in the data. And most of my data is categorical type, So, Randomforest performs much better than logistic regression for categorical data.
 
